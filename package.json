@@ -1,0 +1,25 @@
+{
+  "name": "css-forge",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikossor/css-forge.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "css-in-js"
+  ],
+  "author": "André Lichtenthäler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bikossor/css-forge/issues"
+  },
+  "homepage": "https://github.com/Bikossor/css-forge#readme"
+}
