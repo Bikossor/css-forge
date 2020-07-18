@@ -1,4 +1,4 @@
-import { IColor } from "../IColor";
+import { IColor } from "../Interface/IColor";
 
 export const rgb = (red: number, green: number, blue: number): IColor => {
     return {

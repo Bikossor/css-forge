@@ -1,4 +1,4 @@
-import { IColor } from "./IColor";
+import { IColor } from "./Interface/IColor";
 
 type CssColorName =
     /**
