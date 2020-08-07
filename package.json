@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "css-forge": "./bin/css-forge"
+  },
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
