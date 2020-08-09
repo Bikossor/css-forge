@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Bikossor/css-forge/issues"
   },
-  "homepage": "https://github.com/Bikossor/css-forge#readme"
+  "homepage": "https://github.com/Bikossor/css-forge#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
 }
