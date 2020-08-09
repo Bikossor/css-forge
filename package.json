@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "css-forge": "./bin/css-forge"
+    "css-forge": "./bin/css-forge.js"
   },
   "scripts": {
     "build": "tsc",
